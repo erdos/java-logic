@@ -1,5 +1,9 @@
 package core;
 
+/**
+ * Helper functions to introduce disjunctions where one side is already proven.
+ *
+ */
 public enum Introduction {
     ;
 
